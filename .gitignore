@@ -59,6 +59,6 @@ sysinfo.txt
 crashlytics-build.properties
 
 # Ignore Library
-VisualScript/Library
-VisualScript/Logs
-VisualScript/UserSettings
+VisualScriptBase/Library
+VisualScriptBase/Logs
+VisualScriptBase/UserSettings
